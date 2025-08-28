@@ -1,0 +1,101 @@
+Name,Surname,Age,GPA,Course,Hobby,Scholarship,Have Retakes,Email
+Nyra,Xanthe,18,3.74,Software Engineering,Writing,No,No,nyra.xanthe@innopolis.university
+Doran,Mavren,18,2.38,Robotics,Photography,Yes,Yes,doran.mavren@innopolis.university
+Aylen,Dorin,22,4.78,Computer Vision,Hiking,No,No,aylen.dorin@innopolis.university
+Kael,Halden,21,4.18,Robotics,Photography,No,No,kael.halden@innopolis.university
+Varek,Halden,18,3.74,AI Engineering,Writing,No,No,varek.halden@innopolis.university
+Kael,Senn,18,2.53,Mathematics,Coding,No,Yes,kael.senn@innopolis.university
+Casen,Orlin,18,4.16,Data Science,Baking,Yes,No,casen.orlin@innopolis.university
+Aylen,Kaelen,23,2.5,Robotics,Gymnastics,No,Yes,aylen.kaelen@innopolis.university
+Elira,Dorin,18,2.78,Computer Science,Rock Climbing,No,Yes,elira.dorin@innopolis.university
+Riven,Drelor,25,2.43,Computer Science,Writing,Yes,Yes,riven.drelor@innopolis.university
+Bram,Ravick,19,2.64,Software Engineering,Writing,Yes,Yes,bram.ravick@innopolis.university
+Mira,Ravick,21,2.47,Mathematics,Piano,Yes,Yes,mira.ravick@innopolis.university
+Jalen,Voss,21,,Mathematics,Writing,No,No,jalen.voss@innopolis.university
+Aylen,Trell,18,2.75,Mathematics,Rock Climbing,Yes,Yes,aylen.trell@innopolis.university
+Zora,Estelle,21,4.42,Software Engineering,Archery,Yes,No,zora.estelle@innopolis.university
+Eron,Senn,23,3.65,Computer Science,,No,No,
+Eron,Fennick,19,3.91,Computer Science,Archery,Yes,No,eron.fennick@innopolis.university
+Selene,Mavren,24,4.69,AI Engineering,Baking,No,No,selene.mavren@innopolis.university
+Jalen,Senn,22,4.47,Computer Vision,Archery,Yes,No,jalen.senn@innopolis.university
+Kiora,Korrin,20,4.3,Computer Science,Painting,,No,kiora.korrin@innopolis.university
+Sylvie,Thornwell,24,2.05,Computer Science,Archery,No,Yes,sylvie.thornwell@innopolis.university
+Kael,Malric,20,3.11,Computer Science,Coding,No,Yes,kael.malric@innopolis.university
+Kiora,Ravick,22,2.02,AI Engineering,Coding,Yes,Yes,kiora.ravick@innopolis.university
+Riven,Kaelen,23,3.32,Cybersecurity,Hiking,No,Yes,riven.kaelen@innopolis.university
+Mira,Xanthe,24,4.38,Mathematics,Gymnastics,Yes,No,mira.xanthe@innopolis.university
+Casen,Orlin,24,3.41,Data Science,Violin,Yes,Yes,casen.orlin@innopolis.university
+Zora,Thornwell,20,3,Cybersecurity,Gaming,No,Yes,zora.thornwell@innopolis.university
+Sylvie,Ravick,23,3.35,Computer Vision,Writing,No,Yes,sylvie.ravick@innopolis.university
+Sylvie,Kaelen,21,3.58,Software Engineering,Gymnastics,No,No,sylvie.kaelen@innopolis.university
+Eron,Thornwell,21,3.7,Data Science,Gaming,No,No,eron.thornwell@innopolis.university
+Thane,Corven,19,2.05,Robotics,Baking,No,Yes,thane.corven@innopolis.university
+Aylen,Kaelen,21,3.9,Cybersecurity,Piano,Yes,No,aylen.kaelen@innopolis.university
+Bram,Bellar,25,2.78,Computer Science,Dungeons & Dragons,Yes,Yes,bram.bellar@innopolis.university
+Zora,Halden,19,3.08,Information Security,Chess,No,Yes,zora.halden@innopolis.university
+Varek,Malric,21,3.16,AI Engineering,Baking,No,Yes,varek.malric@innopolis.university
+Riven,Fennick,23,2.87,Cybersecurity,Dungeons & Dragons,No,Yes,riven.fennick@innopolis.university
+Kiora,Corven,24,3.54,Computer Vision,Hiking,No,No,kiora.corven@innopolis.university
+Varek,Kaelen,21,2.09,AI Engineering,Hiking,Yes,Yes,varek.kaelen@innopolis.university
+Riven,Malric,24,3.75,Computer Science,Hiking,Yes,No,
+Kael,Orlin,25,4.43,AI Engineering,Writing,Yes,No,kael.orlin@innopolis.university
+Doran,Halden,24,2.93,Information Security,Baking,No,Yes,doran.halden@innopolis.university
+Kael,Thornwell,20,2.03,Mathematics,Painting,Yes,Yes,kael.thornwell@innopolis.university
+Riven,Senn,24,4.11,AI Engineering,Archery,Yes,No,riven.senn@innopolis.university
+Lira,Vaylen,21,4.52,Cybersecurity,Painting,Yes,No,lira.vaylen@innopolis.university
+Casen,Dorin,23,3.49,Cybersecurity,Cycling,,Yes,casen.dorin@innopolis.university
+Lira,Halden,19,2.14,Information Security,Gymnastics,Yes,Yes,lira.halden@innopolis.university
+Eron,Corven,22,2.89,Computer Vision,,No,Yes,eron.corven@innopolis.university
+Doran,Dorin,19,3.02,Computer Vision,Painting,Yes,Yes,doran.dorin@innopolis.university
+Zora,Voss,18,4.46,Robotics,Painting,Yes,No,zora.voss@innopolis.university
+Riven,Kaelen,20,4.89,AI Engineering,Gaming,Yes,No,riven.kaelen@innopolis.university
+Kael,Malric,18,2.39,Cybersecurity,Archery,Yes,Yes,kael.malric@innopolis.university
+Bram,Quorin,24,2.73,Robotics,Photography,Yes,Yes,bram.quorin@innopolis.university
+Thane,Senn,20,4.36,AI Engineering,Writing,Yes,No,thane.senn@innopolis.university
+Nira,Ravick,20,4.28,Mathematics,Cycling,No,No,nira.ravick@innopolis.university
+Aylen,Mavren,18,3.97,Computer Vision,Rock Climbing,Yes,No,aylen.mavren@innopolis.university
+Mira,Bellar,23,4.52,Robotics,Archery,No,No,mira.bellar@innopolis.university
+Kiora,Mavren,20,4.71,Data Science,Coding,No,No,kiora.mavren@innopolis.university
+Elira,Bellar,22,2.57,Cybersecurity,Chess,Yes,Yes,elira.bellar@innopolis.university
+Doran,Mavren,20,4.6,Cybersecurity,Piano,No,No,doran.mavren@innopolis.university
+Thane,Bellar,19,4.63,Data Science,Baking,Yes,No,thane.bellar@innopolis.university
+Casen,Ravick,22,3.67,Computer Science,Gymnastics,No,No,casen.ravick@innopolis.university
+Zora,Bellar,22,4.44,Software Engineering,Gymnastics,Yes,No,zora.bellar@innopolis.university
+Mira,Voss,20,3.9,Software Engineering,Gaming,Yes,No,mira.voss@innopolis.university
+Eron,Voss,21,2.39,Computer Science,Cycling,No,Yes,eron.voss@innopolis.university
+Elira,Dorin,24,2.52,AI Engineering,Archery,Yes,Yes,elira.dorin@innopolis.university
+Elira,Senn,19,3.5,AI Engineering,Cycling,Yes,No,
+Bram,Vaylen,24,4.55,Cybersecurity,Photography,No,No,bram.vaylen@innopolis.university
+Sylvie,Fennick,18,3.08,Information Security,Baking,No,Yes,sylvie.fennick@innopolis.university
+Elira,Vaylen,22,3.22,Data Science,Hiking,Yes,Yes,elira.vaylen@innopolis.university
+Casen,Corven,20,3.26,Information Security,Hiking,No,Yes,casen.corven@innopolis.university
+Tavian,Fennick,20,4.26,AI Engineering,,No,No,tavian.fennick@innopolis.university
+Selene,Vaylen,25,,Cybersecurity,Baking,No,No,selene.vaylen@innopolis.university
+Sylvie,Halden,24,3.88,Robotics,Archery,Yes,No,sylvie.halden@innopolis.university
+Jalen,Dorin,24,4.03,Robotics,Violin,Yes,No,jalen.dorin@innopolis.university
+Selene,Drelor,21,4.35,Computer Science,Violin,,No,selene.drelor@innopolis.university
+Nira,Trell,24,2.26,Information Security,Painting,No,Yes,nira.trell@innopolis.university
+Mira,Voss,21,4.12,Cybersecurity,Cycling,Yes,No,mira.voss@innopolis.university
+Selene,Senn,19,2.88,Computer Science,Chess,Yes,Yes,selene.senn@innopolis.university
+Tavian,Voss,24,4.71,Mathematics,Hiking,Yes,No,tavian.voss@innopolis.university
+Kael,Thornwell,25,3.44,Mathematics,Cycling,Yes,Yes,kael.thornwell@innopolis.university
+Varek,Fennick,24,2.03,Computer Science,Archery,No,Yes,varek.fennick@innopolis.university
+Lira,Kaelen,25,3.81,Computer Vision,Gaming,Yes,No,lira.kaelen@innopolis.university
+Aylen,Corven,24,3.95,Mathematics,Rock Climbing,No,No,aylen.corven@innopolis.university
+Bram,Korrin,23,4.25,Computer Vision,Coding,No,No,bram.korrin@innopolis.university
+Casen,Ravick,19,3.82,AI Engineering,Painting,No,No,casen.ravick@innopolis.university
+Kiora,Kaelen,24,2.49,Robotics,Gaming,,Yes,kiora.kaelen@innopolis.university
+Lira,Halden,20,3.08,Data Science,Coding,No,Yes,lira.halden@innopolis.university
+Eron,Vaylen,24,2.22,Cybersecurity,Rock Climbing,No,Yes,eron.vaylen@innopolis.university
+Bram,Trell,19,4.86,Information Security,Gymnastics,No,No,bram.trell@innopolis.university
+Kael,Voss,24,4.74,Mathematics,Coding,Yes,No,kael.voss@innopolis.university
+Doran,Ravick,19,2.65,Robotics,Chess,Yes,Yes,doran.ravick@innopolis.university
+Aylen,Senn,18,4.94,Software Engineering,Piano,No,No,aylen.senn@innopolis.university
+Bram,Quorin,20,2.19,Robotics,Hiking,Yes,Yes,
+Kiora,Malric,24,4.38,Data Science,Writing,Yes,No,kiora.malric@innopolis.university
+Selene,Voss,25,2.19,Information Security,Violin,Yes,Yes,selene.voss@innopolis.university
+Elira,Drelor,22,2.28,Software Engineering,Hiking,Yes,Yes,elira.drelor@innopolis.university
+Elira,Voss,23,3.29,Mathematics,Coding,Yes,Yes,elira.voss@innopolis.university
+Zora,Mavren,21,3.23,AI Engineering,,Yes,Yes,zora.mavren@innopolis.university
+Jalen,Vaylen,22,3.42,Software Engineering,Photography,No,Yes,jalen.vaylen@innopolis.university
+Nyra,Malric,18,,Mathematics,Gymnastics,No,No,nyra.malric@innopolis.university
