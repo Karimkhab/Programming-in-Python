@@ -1,31 +1,37 @@
+<div align="center">
+
 # 🐍 Programming in Python
 
-Репозиторий с моими учебными и практическими работами по Python.
+<p>Учебные и практические работы по Python: от базовых заданий до решений задач (LeetCode) с упором на <b>pandas</b> и анализ данных.</p>
 
-## 📘 О проекте
-Изначально здесь были мои задания и лабораторные из летнего семестра — я осваивал базовый синтаксис, структуры данных и стандартные библиотеки Python.  
-Сейчас репозиторий используется для решения задач с **LeetCode**, в основном с применением **pandas** и других инструментов анализа данных.
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-111111?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/LeetCode-111111?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+</p>
 
-## 🧩 Структура репозитория
-Programming-in-Python/
-│
-├── .idea/              # служебные файлы IDE
-├── Assignments/        # учебные задания с курса
-├── Labs/               # лабораторные работы
-├── LeetCode Tasks/     # решения задач с LeetCode (в основном pandas)
-├── employees.csv       # вспомогательные данные
-├── requirements.txt    # зависимости проекта
-└── README.md
+<p>
+  <img src="https://skillicons.dev/icons?i=python&perline=12" alt="skills" />
+</p>
 
-## ⚙️ Технологии
-- Python 3.x  
-- pandas, numpy, itertools и др. стандартные библиотеки
-
-## 🎯 Цели
-- Практика написания чистого и эффективного Python-кода  
-- Решение алгоритмических задач и развитие логического мышления  
-- Углубление в обработку данных и работу с pandas
+</div>
 
 ---
 
-> Репозиторий пополняется по мере прохождения новых задач 💡
+## 📘 О репозитории
+Изначально это были **задания и лабораторные** по Python: синтаксис, структуры данных, стандартная библиотека.  
+Сейчас репозиторий также используется для **решения задач с LeetCode**, преимущественно в формате **pandas/data analysis**.
+
+---
+
+## 🧩 Структура
+```text
+Programming-in-Python/
+├── .idea/              # служебные файлы IDE
+├── Assignments/        # учебные задания с курса
+├── Labs/               # лабораторные работы
+├── LeetCode Tasks/     # решения задач (в основном pandas)
+├── employees.csv       # вспомогательные данные
+├── requirements.txt    # зависимости проекта
+└── README.md
